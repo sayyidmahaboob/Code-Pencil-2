@@ -18,9 +18,9 @@ If you have any feedback, please reach out to us at sayyidmahaboob@outlook.com
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Grey | ![](https://via.placeholder.com/10/0a192f?text=+) #404040 |
-| Black| ![](https://via.placeholder.com/10/f8f8f8?text=+) #0E0E0E |
-| White | ![](https://via.placeholder.com/10/00b48a?text=+) #fffff |
+| Grey |  #404040 |
+| Black| #0E0E0E |
+| White |  #fffff |
 
 
 
