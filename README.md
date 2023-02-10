@@ -30,7 +30,7 @@ Visit : [codepencil2](https://codepencil2.netlify.app/)
 
 ## Screen Shot 
 
-[demo](./project.pngproject.png)
+![demo](./project.pngproject.png)
 
 
 
