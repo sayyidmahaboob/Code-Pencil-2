@@ -20,7 +20,7 @@ If you have any feedback, please reach out to us at sayyidmahaboob@outlook.com
 | ----------------- | ------------------------------------------------------------------ |
 | Grey |  #404040 |
 | Black| #0E0E0E |
-| White |  #fffff |
+| White |   #fffff |
 
 
 
