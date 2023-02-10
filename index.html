@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Code Pencil </title>
+    <!-- link css -->
+    <link rel="stylesheet" href="style.css" />
+    <!-- font awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css" integrity="sha512-SzlrxWUlpfuzQ+pcUCosxcglQRNAq/DZjVsC0lE40xsADsfeQoEypE+enwcOiGjk/bSuGGKHEyjSoQ1zVisanQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  </head>
+  <body>
+    <h2 class="h">Code Pencil<i class="fa-solid fa-pencil"></i></h2>
+
+    <div class="container">
+      <div class="editor">
+        <!-- right -->
+        <div class="right">
+            <label id="h"><i class="fa-brands fa-html5"></i>HTML</label>
+            <textarea id="htmlCode"  ></textarea>
+            <label id="c"><i class="fa-brands fa-css3-alt"></i>CSS</label>
+            <textarea id="cssCode"  "></textarea>
+            <label id="j"><i class="fa-brands fa-square-js"></i>javaScript</label>
+            <textarea id="jsCode" ></textarea>
+        </div>
+        <!-- left -->
+        <div class="left">
+          <label id="op"><i class="fa-solid fa-play"></i> OutPut</label>
+          <iframe id="output"></iframe>
+        </div>
+      </div>
+    </div>
+
+    <!-- script -->
+    <script src="script.js"></script>
+  </body>
+</html>

@@ -1,0 +1,108 @@
+@import url("https://fonts.googleapis.com/css2?family=Fira+Code&family=M+PLUS+1+Code&family=Poppins&family=Source+Code+Pro:wght@500&family=Teko:wght@300&family=Tiro+Devanagari+Hindi&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+/* body */
+body {
+  background: rgb(65, 64, 64);
+  color: #fff;
+  height: 100vh;
+  overflow: hidden; /* Hide scrollbars */
+  /* padding: 5px; */
+}
+
+/* container */
+.editor {
+  width: 100%;
+  height: 97vh;
+  padding: 10px;
+  display: flex;
+}
+
+/* 2boxes */
+.left,
+.right {
+  flex-basis: 50%;
+  padding: 5px;
+}
+
+/* text area */
+textarea {
+  width: 100%;
+  height: 30%;
+  background: #1f1f1f;
+  color: #fff;
+  padding: 10px 20px;
+  font-size: 16px;
+  border: 0;
+  outline: 0;
+  font-family: "M PLUS 1 Code", sans-serif;
+  font-size: 0.9375rem;
+}
+
+/* o/p */
+iframe {
+  border: 0;
+  outline: 0;
+  width: 100%;
+  height: 100%;
+  background: #ffffff;
+  /* color: black; */
+}
+
+#h {
+  color: tomato;
+  background: rgb(14, 14, 14);
+  border-radius: 8px 8px 0px 0px;
+}
+
+#c {
+  color: rgb(27, 23, 250);
+  background: rgb(14, 14, 14);
+  border-radius: 8px 8px 0px 0px;
+}
+
+#j {
+  color: rgb(255, 255, 40);
+  background: rgb(14, 14, 14);
+  border-radius: 8px 8px 0px 0px;
+}
+
+#op {
+  background: rgb(14, 14, 14);
+  color: #ffffff;
+  border-radius: 8px 8px 0px 0px;
+}
+
+/* giving margin to icons  */
+
+label i {
+  margin-left: 8px;
+  margin-right: 8px;
+}
+
+label {
+  display: flex;
+  align-items: center;
+  height: 22px;
+  /* font-family: "Fira Code", monospace; */
+  color: #ffffff;
+}
+
+.h {
+  background: #1f1f1f;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  height: 40px;
+  font-size: 1.25rem;
+  padding-left: 15px;
+}
+
+.h i {
+  padding: 10px;
+}
