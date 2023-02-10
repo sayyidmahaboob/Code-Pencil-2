@@ -1,7 +1,7 @@
 
 # CODE PENCIL 2
 
-A Replica of code pen it can used  as a basic code editor with not much AI functionality
+A Replica of code pen it can used  as a basic code editor with not much AI functionality.....
 
 ## 🛠 Skills
 Javascript, HTML, CSS...
