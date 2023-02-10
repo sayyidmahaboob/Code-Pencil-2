@@ -28,9 +28,6 @@ If you have any feedback, please reach out to us at sayyidmahaboob@outlook.com
 
 Visit : [codepencil2](https://codepencil2.netlify.app/)
 
-## Screen Shot 
-
-![demo](./project.pngproject.png)
 
 
 
